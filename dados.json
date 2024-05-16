@@ -1,0 +1,28 @@
+{
+    "produto":[
+        {
+            "id":"1",
+            "nome":"Saco Azul",
+            "desc":"Saco de lixo Azul",
+            "valor":500
+        },
+        {
+            "id":"1",
+            "nome":"Saco Preto",
+            "desc":"Saco de lixo Preto",
+            "valor":500
+        },
+        {
+            "id":"1",
+            "nome":"Saco Verde",
+            "desc":"Saco de lixo Verde",
+            "valor":500
+        },
+        {
+            "id":"1",
+            "nome":"Saco Branco",
+            "desc":"Saco de lixo Branco",
+            "valor":500
+        }
+    ]
+}
